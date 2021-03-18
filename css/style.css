@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background-color: blueviolet;
+    font-family: 'Roboto', sans-serif;
+}
+#app h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    text-transform: uppercase;
+};
