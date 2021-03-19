@@ -1,7 +1,8 @@
 var app = new Vue({
 el: '#app',
 data: {
-message: 'Hello World !'
+message: 'You can stand under my umbrella, ella, ella, eh, eh, ehh',
+image: ['img/img01.jpg'],
 },
 });
 
